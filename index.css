@@ -1,3 +1,13 @@
+#header-text {
+  color: green;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+body {
+  background-color: wheat;
+}
+
 #header-button {
   background-color: blue;
   color: white;
